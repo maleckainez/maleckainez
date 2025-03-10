@@ -2,8 +2,8 @@
 Im Inez, student of Computer Sciences at University of Lower Silesia, and cybersecurity passionate.
 Currently working as Junior System Admin in small Civil Engineering Firm, in free time starting (and mostly not finishing :D) new projects.
 
-- 🔭 I’m currently working on my github pages portfolio website (in design stage),
-- 🌱 I’m currently taking Google courses to pass Security+ exam, and taking CS2 course to pass Introduction to Security exam,
+- 🔭 I’m currently working on my github pages portfolio website (in design stage) and taking up Java classes,
+- 🌱 I’m preparing for ISC2’s Introduction to Cybersecurity Exam and CompTIA’s Security+ exam.
 - 💬 Ask me about anything, i love to learn new things, there's nothing that man couldn't learn,
 - 🤔 I’m looking for help with everything! I love to collaborate and learn from others, i woudn't mind to learn something totally new, or to finish some existing projects,
 - ⚡ Fun fact: Most of projects are not finished yet, because i always try to push myself further and expand skils even more!
