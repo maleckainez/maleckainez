@@ -47,7 +47,7 @@ Currently working as Junior System Admin in small Civil Engineering Firm, in fre
   </a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maleckainez&layout=compact&exclude_repo=NotatkiDSW&theme=gradient))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maleckainez&exclude_repo=NotatkiDSW&layout=compact)
 <!--
 **maleckainez/maleckainez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -62,4 +62,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 ![](https://hit.yhype.me/github/profile?account_id=99558290)
